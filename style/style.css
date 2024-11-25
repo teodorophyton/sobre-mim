@@ -1,0 +1,20 @@
+#perfil {
+    width: 270px;
+    height: 270px;
+    border: 10px solid rgb(0, 255, 42);
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+
+#fundo {
+    background-color: rgb(247, 242, 0);
+}
+
+#sobre-mim {
+margin-left: 250px;
+}
+
+#descricao {
+    margin-left: 450px;
+}
