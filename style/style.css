@@ -1,20 +1,24 @@
 #perfil {
     width: 270px;
     height: 270px;
-    border: 10px solid rgb(0, 255, 42);
+    border: 7px solid rgb(1, 255, 1);
     border-radius: 50%;
     margin-top: 100px;
     margin-left: 400px;
 }
 
 #fundo {
-    background-color: rgb(247, 242, 0);
+    background-color: yellow ;
 }
 
 #sobre-mim {
-margin-left: 250px;
+margin-left: 150px;
 }
 
 #descricao {
     margin-left: 450px;
+}
+
+.texto {
+    color: #00008b;
 }
